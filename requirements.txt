@@ -1,0 +1,42 @@
+####  REQUIREMENTS TO RUN THE PROGRAM IN LOCAL SYSTEM  ###
+
+----------------------------------------------------------
+
+----------------
+# INSTALL PYTHON 
+----------------
+Refer to this link: https://www.python.org/downloads/
+Download the latest version of the same.
+
+
+----------------
+# MODULES NEEDED
+----------------
+NUMPY
+PYGAME
+TKINTER
+
+----------------------
+# MODULES INSTALLATION
+----------------------
+
+NUMPY INSTALLATION
+------------------
+If you use pip, you can install NumPy with:
+COMMAND: pip install numpy
+
+
+
+PYGAME INSTALLATION
+-------------------
+COMMAND: pip install pygame
+
+
+
+
+TKINTER INSTALLATION
+--------------------
+COMMAND: pip install tk
+
+
+
