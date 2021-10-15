@@ -1,0 +1,8 @@
+tk==0.1.0
+pandas==0.23.4
+pydub==0.25.1
+gtts==2.2.3
+functiontools==0.5
+tkinter
+cv2
+os
