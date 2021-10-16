@@ -1,0 +1,4 @@
+pandas==0.23.4
+smtplib==3.9
+datetime
+os
